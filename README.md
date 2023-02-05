@@ -11,6 +11,6 @@ Version: 0.7.7
 | --- | --- |
 | **MoBo** | [Gigabyte Z690 UD DDR4](https://www.gigabyte.com/Motherboard/Z690-UD-DDR4-rev-10/support#support-dl-driver) |
 | **CPU** | [i5 12600kf](https://ark.intel.com/content/www/us/en/ark/products/134590/intel-core-i512600kf-processor-20m-cache-up-to-4-90-ghz.html) |
-| **dGPU** | Reference Nvidia GTX 690 |
+| **dGPU** | Asus TUF rx 6900 XT 16GB OC |
 | **RAM** | Patriot Viper 4x8GB |
-| **Storage for MAC** | 500GB Samsung EVO 860 |
+| **Storage for MAC** | Samsung EVO 960 NVME |
