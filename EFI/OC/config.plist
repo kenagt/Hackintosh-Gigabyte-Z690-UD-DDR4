@@ -176,7 +176,7 @@
 			<key>FadtEnableReset</key>
 			<true/>
 			<key>NormalizeHeaders</key>
-			<false/>
+			<true/>
 			<key>RebaseRegions</key>
 			<true/>
 			<key>ResetHwSig</key>
@@ -255,7 +255,7 @@
 			<key>ResizeAppleGpuBars</key>
 			<integer>0</integer>
 			<key>SetupVirtualMap</key>
-			<false/>
+			<true/>
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
@@ -888,7 +888,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v watchdog=0 agdpmod=pikera</string>
+				<string>-v watchdog=0 agdpmod=pikera fips_mode=4</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
