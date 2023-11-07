@@ -1,7 +1,7 @@
 # Hackintosh-Gigabyte-Z690-UD-DDR4
 EFI folder for hackintosh, Z690, 12600KF, 32GB DDR4
 
-# Ventura Hackintosh
+# Ventura, Sonoma Hackintosh
 
 ## [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) 
 Version: 0.7.7
